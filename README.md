@@ -15,9 +15,9 @@ The test subjects are in the subject_text.txt file and the activity labels are i
 For training data is the same
 
 ##The script
-The run_analysis.R script will merge the test and training datasets into one dataset, works processes the
+The run_analysis.R script will merge the test and training datasets into one dataset, processes the
 relevant columns and extracts two independent tidy dataset.
-The "root" of input data, will be on the working directory
+The "root" of input data, will be on the working directory.
 The output files will be on the working directory
 
 ##The Code Book
