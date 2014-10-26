@@ -5,7 +5,7 @@ My stuff on Getting and Cleaning Data
 
 
 ##Introduction
-This repo contains what I have done on Cetting and Cleanig Data course
+This repo contains what I have done on Getting and Cleanig Data course
 
 
 ##The raw data
